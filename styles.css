@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; 
+    margin-top: 250px;
+
+}
+.input{
+    height: 35px;
+    width: 400px;
+    font: 1em sans-serif;
+    border-radius:#b6b6b6;
+}
+.btn{
+    height: 35px;
+    width: 400px;
+    background:#4A96A6;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10px;
+    border: #b6b6b6;
+
+}
+.lien{
+    margin-right: 240px;
+    color:#b6b6b6;
+}
+.lien:hover{
+    color: #86b33d;
+}
